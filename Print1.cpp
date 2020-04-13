@@ -23,7 +23,6 @@ int main()
 {
 	int Array[MAX]={4,9,6,8,2,5,7,1,0,3};
 	Print(Array,MAX);
-	print("tai print1");
-	print("tai print1");
-	print("tai print1");
+	print("11111");
+	print("11111");
 }
