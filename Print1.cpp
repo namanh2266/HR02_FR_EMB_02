@@ -17,14 +17,13 @@ int Print(int Array[], int n)
 	for(i=0; i<n; i++){
 		printf("%d  ",Array[i]);
 	}
-	printf("\ndang o nhanh 1");
 }
 
 int main()
 {
 	int Array[MAX]={4,9,6,8,2,5,7,1,0,3};
 	Print(Array,MAX);
-	
-	printf("conflic tai day");
-	
+	printf("\ndang o nhanh 2");
+	printf("\ndang o nhanh 2");
+	printf("\ndang o nhanh 2");
 }
