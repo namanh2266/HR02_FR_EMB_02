@@ -25,7 +25,6 @@ int main()
 	Print(Array,MAX);
 	printf("\ndang o nhanh 2");
 	printf("\ndang o nhanh 2");
-	
 	printf("\ndang o nhanh 2");
 	printf("\ndang o nhanh 2");
 }
