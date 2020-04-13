@@ -34,6 +34,8 @@ int Print(int Array[], int n)
 	for(i=0; i<n; i++){
 		printf("%d  ",Array[i]);
 	}
+	
+	printf("conflitc Brach 01 o day");
 }
 
 int main()
