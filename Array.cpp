@@ -49,4 +49,6 @@ int main()
 	SapXepGiam(Array,MAX);
 	Print(Array,MAX);
 	
+	printf("tao con flic branch 1");
+	
 }
