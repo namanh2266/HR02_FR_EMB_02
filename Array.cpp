@@ -35,13 +35,18 @@ int Print(int Array[], int n)
 		printf("%d  ",Array[i]);
 	}
 	
-	printf("conflitc Brach 01 o day");
+	printf("\n");
 }
 
 int main()
 {
 	int Array[MAX]={4,9,6,8,2,5,7,1,0,3};
+	Print(Array,MAX);
+	printf("sap xep tang\n");
 	SapXepTang(Array,MAX);
+	Print(Array,MAX);
+	printf("sap xep giam\n");
+	SapXepGiam(Array,MAX);
 	Print(Array,MAX);
 	
 }
