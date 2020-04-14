@@ -50,4 +50,5 @@ int main()
 	Print(Array,MAX);
 	
 	printf("tao conflic 2");
+	
 }
