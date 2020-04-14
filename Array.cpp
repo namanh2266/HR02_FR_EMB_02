@@ -48,6 +48,6 @@ int main()
 	printf("sap xep giam\n");
 	SapXepGiam(Array,MAX);
 	Print(Array,MAX);
-	
 	printf("conflit 1");
+	printf("loi branch 2");
 }
