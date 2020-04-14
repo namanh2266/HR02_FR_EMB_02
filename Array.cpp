@@ -49,4 +49,5 @@ int main()
 	SapXepGiam(Array,MAX);
 	Print(Array,MAX);
 	
+	printf("tao conflic 2");
 }
