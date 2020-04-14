@@ -23,6 +23,6 @@ int main()
 {
 	int Array[MAX]={4,9,6,8,2,5,7,1,0,3};
 	Print(Array,MAX);
-	printf("in branch 2222222");
-	printf("in branch 2222222");
+	printf("loi branch 2 2 2");
+	printf("loi branch 2 2 2");
 }
