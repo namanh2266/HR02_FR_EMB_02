@@ -48,4 +48,8 @@ int main()
 	printf("sap xep giam\n");
 	SapXepGiam(Array,MAX);
 	Print(Array,MAX);
+	
+	printf("tao con flic branch 2");
+	printf("tao con flic branch 2");
+	
 }
