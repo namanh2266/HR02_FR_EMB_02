@@ -42,6 +42,7 @@ int main()
 {
 	int Array[MAX]={4,9,6,8,2,5,7,1,0,3};
 	SapXepTang(Array,MAX);
+	SapXepGiam(Array,MAX);
 	Print(Array,MAX);
 	
 }
