@@ -48,12 +48,4 @@ int main()
 	printf("sap xep giam\n");
 	SapXepGiam(Array,MAX);
 	Print(Array,MAX);
-	
-<<<<<<< HEAD
-	printf("branch 11");
-	printf("branch 11");
-=======
-	printf("branch 22");
-	printf("branch 22");
->>>>>>> BrTest02
 }
