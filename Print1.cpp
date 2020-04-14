@@ -23,6 +23,10 @@ int main()
 {
 	int Array[MAX]={4,9,6,8,2,5,7,1,0,3};
 	Print(Array,MAX);
+
 	printf("loi branch 1 1 1");
 	printf("loi branch 1 1 1");
+
+	printf("loi branch 2");
+	printf("loi branch 2");
 }
