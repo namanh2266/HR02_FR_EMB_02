@@ -50,5 +50,6 @@ int main()
 	Print(Array,MAX);
 	
 	printf("tao con flic branch 1");
+	printf("tao con flic branch 1");
 	
 }
