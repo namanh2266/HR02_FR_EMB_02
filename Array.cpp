@@ -49,6 +49,6 @@ int main()
 	SapXepGiam(Array,MAX);
 	Print(Array,MAX);
 
-	printf("conflic 1111 ");
+	printf("conflic 22222 ");
 	
 }
