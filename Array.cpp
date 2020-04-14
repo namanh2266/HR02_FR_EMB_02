@@ -49,6 +49,11 @@ int main()
 	SapXepGiam(Array,MAX);
 	Print(Array,MAX);
 	
+<<<<<<< HEAD
 	printf("branch 11");
 	printf("branch 11");
+=======
+	printf("branch 22");
+	printf("branch 22");
+>>>>>>> BrTest02
 }
