@@ -48,4 +48,7 @@ int main()
 	printf("sap xep giam\n");
 	SapXepGiam(Array,MAX);
 	Print(Array,MAX);
+	
+	printf("branch 11");
+	printf("branch 11");
 }
